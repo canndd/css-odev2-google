@@ -1,7 +1,8 @@
+/* Sayfaya ortala */ 
 .center{
     text-align: center;
 }
-
+ /*  arka plan, genişlik, yükseklik , ve margin ayarları verildi */ 
 #box1 {
 
 background-color:rgb(236, 234, 234);
@@ -11,6 +12,8 @@ margin-right: 50px;
 margin-left: 100px;
 margin-top: -15px;
 }
+ 
+
 #input1 {
    
    margin-left: 38%;
@@ -24,6 +27,8 @@ margin-left: 490px;
     display: block;
     margin-bottom: 0px;
 }
+ /*  arka plan, genişlik, yükseklik , ve margin ayarları verildi  float özelliği ile kutular yan yana getirildi*/ 
+
 #box2 {
     background-color: rgb(126, 229, 218);
     width: 30%;
@@ -47,6 +52,8 @@ margin-left: 490px;
     margin-left: 167px;
   
 }
+ /*  arka plan, genişlik, yükseklik , ve margin ayarları verildi. float özelliği ile kutular yan yana getirildi */ 
+
 #box3 {
     background-color: rgb(112, 204, 194);
     height: 80px;
@@ -74,6 +81,8 @@ margin-left: 490px;
     margin-left: 32%;
     font-size: 14px;
 }
+ /*  arka plan, genişlik, yükseklik , ve margin ayarları verildi */ 
+
 #box4 {
     background-color: rgb(98, 179, 170);
     margin-left: 823px;
